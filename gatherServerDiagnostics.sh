@@ -5,15 +5,8 @@ lightPollingInterval=5
 heavyPollingInterval=20
 
 gatherAllThreads=0
-gatherCldbThreadsCpu=1
 gatherAllProcesses=1
 gatherHWResources=1
-
-gatherMfsThreadsCpu=1
-gatherMrconfigThreads=1
-gatherGuts=1
-gatherCldbStacks=1
-gatherCldbPid=0
 
 gatherNetstatPan=0
 
