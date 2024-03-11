@@ -1,4 +1,4 @@
-# gatherServerDiagnostics
+# gatherServerDiagnostics for k8s nodes 
 This script is useful for collecting diagnostics for all threads running on the system
 
 you run the scripts in below order. Note: make sure you have tunned the configurable before starting the script. 
